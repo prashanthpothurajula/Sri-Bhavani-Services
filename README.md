@@ -16,7 +16,7 @@ color pattle
   <li>https://www.veed.io/tools/background-remover/change-background-color</li>
   <li>https://retoucher.online/</li>
   <li>https://brandfolder.com/workbench/color-palette</li>
-  <li></li>
+  <li>https://www.slazzer.com/</li>
   <li></li>
   <li></li>
   <li></li>
