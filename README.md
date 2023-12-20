@@ -53,24 +53,24 @@
  <li>https://www.adobe.com/in/products/firefly.html</li>
  <li>https://starryai.com/</li>
  <li>https://playground.ai/</li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
+ <li>https://www.perplexity.ai/search/about-cyebersequity-1aMz_1UdQkyOkekUCAdRiw?s=u</li>
+ <li>https://www.veed.io/tools</li>
+ <li>http://tutori.me/</li>
+ <li>https://otter.ai/</li>
+ <li>https://writesonic.com/</li>
+ <li>https://writesonic.com/</li>
+ <li>http://barden.ai/</li>
+ <li>https://app.durable.co/website/builder</li>
+ <li>https://www.framer.com/features/ai/</li>
+ <li>https://webflow.com/dashboard/signup</li>
+ <li>https://murf.ai/</li>
+ <li>https://inshot.com/</li>
+ <li>https://app.droxy.ai/sign-up?productId=prod_OBWxYLD64Kjvnc</li>
+ <li>https://www.droxy.ai/</li>
+ <li>https://www.framer.com/features/ai/</li>
+ <li>https://www.veed.io/edit/e47258ef-0a44-4db9-867f-14d20ae3e961/media</li>
+ <li>https://starryai.com/app/create</li>
+ <li>https://www.programiz.com/c-programming/online-compiler/</li>
  <li>color pattle html</li>
  <li>https://www.veed.io/tools/background-remover/change-background-color</li>
  <li>https://www.fotor.com/features/background-remover/upload</li>
