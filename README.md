@@ -32,8 +32,17 @@ color pattle
   <li>https://flair.ai/</li>
   <li>https://aiseo.ai/</li>
   <li>https://rytr.me/?via=millionify&utm_source=adwords&utm_medium=Rytr%20ai&utm_campaign=Rytr&utm_content=Ad%20group%201&utm_keyword=rytr%20ai&utm_matchtype=p&campaign_id=20587392468&ad_group_id=155628553602&ad_id=675290464989&gclid=CjwKCAiAvoqsBhB9EiwA9XTWGXgXcdWpsy6yd-GO3fpNMuBhw2mZvqR0JD2GHukUtJ6Hw_Hbl5gPDBoCtp4QAvD_BwE</li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>https://www.typewise.app/roi</li>
+  <li>https://writesonic.com/</li>
+  <li>https://writesonic.com/</li>
+  <li>https://www.articleforge.com/?ref=bb684b&gad_source=1&gclid=CjwKCAiAvoqsBhB9EiwA9XTWGahUCaLwANl3IoZl3MbMBPdIOF5pVilS-zaaNvfFVWfUOAHJ8l8RIRoCFo0QAvD_BwE</li>
+   <li>https://simplified.com/ai-writer/?utm_source=google&utm_medium=cpc&utm_campaign=20630963443&utm_content=157354390514&utm_term=simplified%20ai&matchtype=e&network=g&device=c&gad_source=1&gclid=CjwKCAiAvoqsBhB9EiwA9XTWGc7tPTqEGlzC255SQVJNbIR4J46ooRWbF1kx0P4I-rmprrPUIIBqshoCtPAQAvD_BwE</li>
+  <li>https://bertha.ai/</li>
+  <li>https://www.adcreative.ai/</li>
+   <li>https://durable.co/</li>
+  <li>https://replit.com/</li>
+  <li>https://replit.com/login?goto=%2Fai&error=unauthorized</li>
+   <li>https://www.akkio.com/</li>
+  <li>https://10web.io/</li>
   <li></li>
 </ul>
