@@ -1,14 +1,4 @@
 # Sri-Bhavani-Services
-learning about technology
-backgroun remove https://new.express.adobe.com/tools/remove-background
-https://www.fotor.com/features/background-remover/upload
-https://www.veed.io/tools/background-remover/change-background-color
-color pattle 
-
-
-
-
- 
 <ul>
   <li>https://www.veed.io/tools/background-remover/change-background-color</li>
   <li>https://app.photoroom.com/edit/7f8264cf-b7ce-4f54-9b2c-8075236880aa</li>
@@ -44,5 +34,50 @@ color pattle
   <li>https://replit.com/login?goto=%2Fai&error=unauthorized</li>
    <li>https://www.akkio.com/</li>
   <li>https://10web.io/</li>
-  <li></li>
+  <li>https://apps.apple.com/us/app/capcut-video-editor/id1500855883</li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li>color pattle html</li>
+ <li>https://www.veed.io/tools/background-remover/change-background-color</li>
+ <li>https://www.fotor.com/features/background-remover/upload</li>
+ <li>backgroun remove https://new.express.adobe.com/tools/remove-background</li>
+  
+
+
+
+
 </ul>
