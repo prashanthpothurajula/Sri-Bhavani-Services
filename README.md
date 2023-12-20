@@ -35,24 +35,24 @@
    <li>https://www.akkio.com/</li>
   <li>https://10web.io/</li>
   <li>https://apps.apple.com/us/app/capcut-video-editor/id1500855883</li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
+ <li>https://5350.xg4ken.com/trk/v1?prof=467&camp=155324&kct=google&kchid=6017734695&criteriaid=kwd-1007255995168&campaignid=20172219319&locphy=9062133&adgroupid=154536273732&adpos=&cid=684347618366&networkType=search&kdv=c&kext=&kadtype=&kmc=&kpid=&url=https://www.bing.com/chat?form=MW00X7&ef_id=_k_CjwKCAiAvoqsBhB9EiwA9XTWGQzV8P4ysu7kNrm9IA6THnNCyU8AFISlztNZd7zXeONeTbjL3PJLxBoC4acQAvD_BwE_k_&OCID=AIDcmmn005jwr7_SEM__k_CjwKCAiAvoqsBhB9EiwA9XTWGQzV8P4ysu7kNrm9IA6THnNCyU8AFISlztNZd7zXeONeTbjL3PJLxBoC4acQAvD_BwE_k_&gad_source=1&gclid=CjwKCAiAvoqsBhB9EiwA9XTWGQzV8P4ysu7kNrm9IA6THnNCyU8AFISlztNZd7zXeONeTbjL3PJLxBoC4acQAvD_BwE</li>
+ <li>https://www.autodraw.com/</li>
+ <li>https://runwayml.com/</li>
+ <li>https://invideo.io/ai/?utm_source=google&utm_medium=cpc&utm_campaign=Global_Search_Brand_Exact_EN&adset_name=Invideo_AI&keyword=invideo%2Fai&network=g&device=c&utm_term=invideo%2Fai&utm_content=Invideo_AI&matchtype=e&placement=g&campaign_id=18035330774&adset_id=152533182894&ad_id=674819400174&gad_source=1&gclid=CjwKCAiAvoqsBhB9EiwA9XTWGXa_S7cLaUkqGOp5PXsxd8L4GZeM3LatRx8V1wRJ2gLgX609Apqd8hoCXK0QAvD_BwE</li>
+ <li>https://runwayml.com/add-images/</li>
+ <li>https://runwayml.com/</li>
+ <li>https://www.techjockey.com/detail/vegas-pro</li>
+ <li>https://www.youtube.com/watch?v=SyqipCxv0EY</li>
+ <li>https://fathom.video/</li>
+ <li>https://answersocrates.com/</li>
+ <li>https://answersocrates.com/</li>
+ <li>https://www.perplexity.ai/</li>
+ <li>https://claude.ai/login?returnTo=%2F</li>
+ <li>https://stockimg.ai/</li>
+ <li>https://5350.xg4ken.com/trk/v1?prof=467&camp=155324&kct=google&kchid=6017734695&criteriaid=kwd-13631145611&campaignid=20172219319&locphy=9062133&adgroupid=154536273972&adpos=&cid=684347618375&networkType=search&kdv=c&kext=&kadtype=&kmc=&kpid=&url=https://www.bing.com/chat?form=MW00X7&ef_id=_k_CjwKCAiAvoqsBhB9EiwA9XTWGSgBvDm4boFP4xVdTAyZtH5APTcL5AZByTHAsm3xgD-OwJu8lvOy4xoCW8oQAvD_BwE_k_&OCID=AIDcmmn005jwr7_SEM__k_CjwKCAiAvoqsBhB9EiwA9XTWGSgBvDm4boFP4xVdTAyZtH5APTcL5AZByTHAsm3xgD-OwJu8lvOy4xoCW8oQAvD_BwE_k_&gad_source=1&gclid=CjwKCAiAvoqsBhB9EiwA9XTWGSgBvDm4boFP4xVdTAyZtH5APTcL5AZByTHAsm3xgD-OwJu8lvOy4xoCW8oQAvD_BwE</li>
+ <li>https://www.adobe.com/in/products/firefly.html</li>
+ <li>https://starryai.com/</li>
+ <li>https://playground.ai/</li>
  <li></li>
  <li></li>
  <li></li>
